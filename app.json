@@ -1,0 +1,10 @@
+{
+  "name": "ThanhApp",
+  "displayName": "ThanhApp",
+  "expo": {
+    "name": "Thanh-app",
+    "slug": "thanh-app",
+    "sdkVersion": "26.0.0",
+    "privacy": "public"
+  }
+}
